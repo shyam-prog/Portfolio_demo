@@ -97,7 +97,8 @@ a:hover {
 
 }
 .outro {
-  margin-bottom: 50px;
+  width: 50%;
+  margin: 50px auto;
 }
 .btn {
   background: #0c5a8a;
